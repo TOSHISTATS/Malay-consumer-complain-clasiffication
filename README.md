@@ -1,4 +1,4 @@
-# Malay-consumer-complaints-clasiffication
+# Malay-consumer-complaints-classification
 
 Classify 5000 samples of consumer complaints in banks. These are classified as one of 5 classes below. 
 
