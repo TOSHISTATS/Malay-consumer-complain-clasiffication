@@ -8,9 +8,10 @@ Classify 5000 samples of customer complaints in banks. These are classified as o
     Bank account or service,         
     Consumer Loan,
 
-BERT is used as a base of this classification model.
 
 ![Screenshot 2022-04-27 19 53 39](https://user-images.githubusercontent.com/28681557/165511137-0a91e207-9ab7-4953-bbca-157bde322569.png)
+
+BERT is used as a base of this classification model.
 
 
 
