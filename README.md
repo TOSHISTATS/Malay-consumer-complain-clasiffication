@@ -1,12 +1,12 @@
 # Malay-consumer-complaints-clasiffication
 
-Classify 5000 samples of customer complaints in banks. These are classified as one of 5 classes (). 
+Classify 5000 samples of customer complaints in banks. These are classified as one of 5 classes. 
 
-Mortgage,                       
-Checking or savings account,  
-Credit card,                   
-Bank account or service,         
-Consumer Loan,
+    Mortgage,                       
+    Checking or savings account,  
+    Credit card,                   
+    Bank account or service,         
+    Consumer Loan,
 
 BERT is used as a base of this classification model.
 
