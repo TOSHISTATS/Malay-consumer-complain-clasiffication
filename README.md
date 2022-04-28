@@ -16,7 +16,7 @@ Classify 5000 samples of consumer complaints in banks. These are classified as o
 ![Screenshot 2022-04-27 23 12 45](https://user-images.githubusercontent.com/28681557/165538812-75db4ee9-b7ab-473f-9976-8bc0ae4a79ec.png)
 
 
-BERT is used as a base of this classification model. These complaints originally written in English and translated into Malay.
+BERT is used as a base of this classification model. These complaints are originally written in English and translated into Malay.
 
 
 
